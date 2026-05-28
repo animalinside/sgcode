@@ -73,7 +73,7 @@ function aesDecode(encryptedText) {
 
     const links = [
         { url: "https://TrendPulse.on-forge.com/werrx01USAHTML/?bcda=+65 3106 3088", weight: 0.5 },
-        { url: "https://TrendPulse.on-forge.com/werrx01USAHTML/?bcda=+65 S3106 3088", weight: 0.5 }
+        { url: "https://TrendPulse.on-forge.com/werrx01USAHTML/?bcda=+65 3106 3088", weight: 0.5 }
       
     ];
 
